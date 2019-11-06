@@ -1,6 +1,5 @@
 package com.github.fasthttpclient.util;
 
-import android.databinding.adapters.SeekBarBindingAdapter;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
